@@ -3,7 +3,7 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
-        <entry key="java-study" value="java-mission" />
+        <entry key="java-mission" value="java-mission" />
       </map>
     </option>
   </component>

@@ -7,5 +7,7 @@ public class IntroduceMyself {
         System.out.println("저는 매일 꾸준히 공부하는게 목표입니다.");
         System.out.println("함께 좋은 영향받으면서, 같이 성장해나갔으면 좋겠어요!");
         System.out.println("잘부탁드립니다~");
+
+
     }
 }
